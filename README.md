@@ -1,11 +1,15 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-f059dc9a6f8d3a56e377f745f24479a46679e63a5d9fe6f495e02850cd0d8118.svg)](https://classroom.github.com/online_ide?assignment_repo_id=6319754&assignment_repo_type=AssignmentRepo)
 # Educational Technology Plan
 
-Provide a brief description of the purpose of your educational technology Plan
+[Provide a brief description of the purpose of your educational technology Plan]
+
+This Educational Technology Plan is prepared to ensure that Santa Teresa High School will know what the minimum technical requirements are for the APCS-Principles class.
 
 ## Context
 
 ### Course  APCS-Principles
+
+[Describe your course including the name, description, and grade level]
 
 Grade: 9 - 12
 
@@ -13,17 +17,21 @@ Grade: 9 - 12
 
 ### Situation
 
-Provide relevant details about your course and/or school that will influence the
+[Provide relevant details about your course and/or school that will influence the
 decisions in the plan. What assets and constraints do you face? What is the
-context of your class, considering demographic and technical resources?
+context of your class, considering demographic and technical resources?]
+
+Santa Teresa High School is one of eleven high schools in the Eastside Union High School District.  In 2013, we started teaching Exploring CS.  In 2015, we added APCS-A (Java).  We did not participate in APCS-P in 2017 when it first came out, and we started teaching APCS-P in 2018.
+
+CS has become popular in our school, and at the moment, we have eight CS classes.  We currently has only one computer lab, and the other three classes are taught in the library's computer lab, which is not a proper classroom.  With its growth rate, within the next two years, we will have ten CS classes.  This calls for having two computer labs.  This means more hardware (computers, Android devices), software licenses, and more demand from the network for efficient Internet speed.
 
 ## Plan
 
 ### Software Specifications
 
-Describe the software that you will use. Include software used for students as
+[Describe the software that you will use. Include software used for students as
 well as any software the instructor will use. This should include any software
-installed as well as any online services.
+installed as well as any online services.]
 
 1. Courseware – A portmanteau of coursework and software, courseware is, by far, the most common type of educational software available. Courseware has been around as long as computer labs have been set aside for student use. They include any software that is designed to instruct the student, and can come in the form of a teacher kit or a tutorial for students. So, both kindergarten art programs and companion software linked to a physics lab course are considered courseware, by this definition.
 
