@@ -128,14 +128,32 @@ in terms of efficiency, effectiveness, evidence-based and inclusive pedagogy.}
     Teacher will teach using App Inventor, PowerPoints, Videos, or Jamboard eleWhiteboard via the overhead projector.
     
 2.  Doing Class Work
+    
     Students will use App Inventor to write their apps, and will use Google Doc or Microsoft Word to do their reflections or App write-up.
  
-3.  Collaboration
-6.  Turning in Homework
-7.  Assessments -- Tests, Final Exams
-8.  Assessments -- Performance Tasks
-9.  Checking Grades
-10. 
+3.  Collaboration and Communication
+
+    Students will use Google G suite to collaborate -- they can share Google Doc or Slides.
+    
+    Students will communicate with teachers using email.
+    
+4.  Turning in Homework
+    
+    Students can turn in their homework in Google Classroom.  Teacher will grade assignments from Google Classroom, and then export grades to School Loop.
+    
+5.  Assessments 
+
+    For quizzes, tests, and final exam, we will use IlluminateEd to create the assessments, and then students can go there to do the assessments, and multiple choice questions will be automatically graded.  IlluminateEd is not the best software for entering test questions, it is very tedious; but this is the only testing software that we have.
+    
+    Sometimes I use Kahoot to give students quick tests.  The competition creates some fun.
+    
+6.  Assessments -- Performance Tasks
+
+    Performance Tasks will have to be done using App Inventor to create the program, and then Google Doc or Microsoft Word to answer the prompts from College Board.
+10.  
+11.  Checking Grades
+12. 
+
 ### Impacts
 
 {How will the technology help *all* students learn? In this section, you can also
