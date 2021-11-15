@@ -169,11 +169,25 @@ evolving course contexts.}
 
 {Finally, in the final version, you will discuss the Impacts of your plan. Here, you can justify your choices in how you expect it to help students' learning. Explain how you have catered your plan to your course and context. This is also where you can describe any contigency plans you have, such as if you have to transition to  from in-person to virtually teaching.}
 
-There is a high demand in Computer Science jobs now and possibly for the next many years.  However, it is difficult to convinve 
-This Educational Technical plan ensures that the class will go smoothly so students will not give up due to technical difficulty.
+There is a high demand in Computer Science (CS) jobs now and possibly for the next many years.  However, it is difficult to convince students to do Computer Science because many students view CS as a difficult subject, and they don't want to even try it.  This particular happens to underserved students.  Every year, I go to the parent groups of underserved students to sell the CS programs.  I usually manage to convince a few students to try.
 
-#### Coming Back from Distance Learning
+This Educational Technical plan ensures that the class will go smoothly so students will not give up due to technical difficulty.  The underserved students will be the first ones to give up because when things don't go the correct way, they will think that it is their fault, ...  
+
+#### APCS-Principles
+
+I taught APCS-A before APCS-Principles exist.  Students only had Exploring CS, and then they did Java.  It requires a lot of hard work to catch up with the curriculum, and not many students can do it.  I really love APCS-Principles.  It sits between Exploring CS and APCS-A.  APCS-Principles deals with the algorithm and abstraction, so it saves teachers time to teach these concepts in the Java class.  I found that most students did a lot matter if they had taken APCS-Principles before APCS-A.  So this class is going to give students confidence in coding.
+
+#### Coming Back from Distance Learning (DL)
+
+Some students are not coping well coming back from DL.  They found it hard to adjust to the In-Person (IP) schedule.  They were still playing games at home, so homework never got done.  Not to mention that they were not learning as much as they could while DLing.  All these just became too much for students, and many had declared having anxiety or mental health problems.
+
+Our Educational Technical plan will reduce their stress of having to deal with technical problems.
 
 #### Going Back to Distance Learning
 
+I we ever have to go back to DL, students will not have the luxury of working on a PC, unless they personally have one.  The district had allowed for one Chromebook per student.  It really is not satisfactory, but since Santa Teresa is not a Title I school, we do not have the funding to buy all CS students (250) a PC laptop.  The good news is that the class can still go on even though it is not ideal.
+
 ####  Expanding too Fast
+
+As mentioned before, we really should build another computer lab.  That would be something that admin should budget for soon.
+
