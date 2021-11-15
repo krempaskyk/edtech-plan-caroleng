@@ -14,7 +14,7 @@ This Educational Technology Plan is prepared to ensure that Santa Teresa High Sc
 
 Grade: 9 - 12
 
-"AP Computer Science Principles is an introductory college-level computing course that introduces students to the breadth of the field of computer science. Students learn to design and evaluate solutions and to apply computer science to solve problems through the development of algorithms and programs. They incorporate abstraction into programs and use data to discover new knowledge. Students also explain how computing innovations and computing systems—including the internet—work, explore their potential impacts, and contribute to a computing culture that is collaborative and ethical." -- CollegeBoard
+"AP Computer Science Principles is an introductory college-level computing course that introduces students to the breadth of the field of computer science. Students learn to design and evaluate solutions and to apply computer science to solve problems through the development of algorithms and programs. They incorporate abstraction into programs and use data to discover new knowledge. Students also explain how computing innovations and computing systems—including the internet—work, explore their potential impacts, and contribute to a computing culture that is collaborative and ethical." -- College Board
 
 ### Situation
 
@@ -60,14 +60,19 @@ installed as well as any online services.}
 
     There are many sites with free APCS-P software which we can use as reference:
 
-    - code.org
+    - Beauty and Joy of Computing (BJC)
+    - Code.org
+    - CodeAcademy
+    - CodeHS
+    - CSAwesome
     - projectSTEM.org
 
 4.  Classroom aids 
 
     - Google Classroom
     - Jamboard (electronic whiteboard)
-    - SchoolLoop (grading system)
+    - SchoolLoop (teacher grading system)
+    - Naviance (official district grade reporting system)
     - Google G suite
     - Microsoft Office
 
@@ -150,9 +155,10 @@ in terms of efficiency, effectiveness, evidence-based and inclusive pedagogy.}
 6.  Assessments -- Performance Tasks
 
     Performance Tasks will have to be done using App Inventor to create the program, and then Google Doc or Microsoft Word to answer the prompts from College Board.
-10.  
-11.  Checking Grades
-12. 
+ 
+7.  Checking Grades
+
+    Students can check their grades in SchoolLoop or Naviance (offical posted grades).
 
 ### Impacts
 
