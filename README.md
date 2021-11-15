@@ -17,9 +17,9 @@ Grade: 9 - 12
 
 ### Situation
 
-[Provide relevant details about your course and/or school that will influence the
+{Provide relevant details about your course and/or school that will influence the
 decisions in the plan. What assets and constraints do you face? What is the
-context of your class, considering demographic and technical resources?]
+context of your class, considering demographic and technical resources?}
 
 Santa Teresa High School is one of eleven high schools in the Eastside Union High School District.  In 2013, we started teaching Exploring CS.  In 2015, we added APCS-A (Java).  We did not participate in APCS-P in 2017 when it first came out, and we started teaching APCS-P in 2018.
 
