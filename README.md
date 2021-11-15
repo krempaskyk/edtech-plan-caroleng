@@ -169,4 +169,8 @@ evolving course contexts.}
 
 {Finally, in the final version, you will discuss the Impacts of your plan. Here, you can justify your choices in how you expect it to help students' learning. Explain how you have catered your plan to your course and context. This is also where you can describe any contigency plans you have, such as if you have to transition to  from in-person to virtually teaching.}
 
-1
+This Educational Technical plan ensures that the class will go smoothly so students will not give up due to technical difficulty.
+
+#### Coming Back from Distance Learning
+
+#### IGoing Back to Distance Learning
