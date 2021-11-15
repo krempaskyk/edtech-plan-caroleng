@@ -73,8 +73,14 @@ And classroom aid technology comes with proprietary software designed to improve
 {Describe the hardware requirements for your class. Provide specific requirements
 wherever necessary.}
 
+While I understand that chromebooks are probably good enough for the purpose of running this course, I would like to recommend PC laptops.
+
+Why PC?
+
+
 Android device
 
+7" 8 GB Android 4.4, GPS, Accelerometer, Rear Camera
 Interactive whiteboards are the current standard in classroom aid technology, and have enjoyed enormously high adoption rates in Europe. The U.S. is quickly catching up, though, and the trend is only accelerating. There are a few interactive whiteboard models on the market, but only the SMARTBoard and Clevertouch are ideal for educational purposes.
 
 ###  Network Specifications
