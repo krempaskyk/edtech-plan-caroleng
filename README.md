@@ -33,21 +33,28 @@ CS has become popular in our school, and at the moment, we have eight CS classes
 well as any software the instructor will use. This should include any software
 installed as well as any online services.]
 
-1. Courseware – A portmanteau of coursework and software, courseware is, by far, the most common type of educational software available. Courseware has been around as long as computer labs have been set aside for student use. They include any software that is designed to instruct the student, and can come in the form of a teacher kit or a tutorial for students. So, both kindergarten art programs and companion software linked to a physics lab course are considered courseware, by this definition.
+1. Courseware
 
-Courseware has been improved and expanded upon profoundly in just a couple decades, and some courseware can teach entire subjects with excellent precision. The idea of what courseware could be has also been stretched, as it now includes software delivered online.
+We use mobile-CSP, and the courseware is supplied in Runestone.
 
-But when software development companies refer to courseware, they are often describing a single course (of any subject) bundled with assessment materials and supplemental lessons.
+The student version is in https://runestone.academy/runestone/books/published/mobilecsp.
 
-No matter the definition, though, courseware is the backbone of any educator’s software suite.
+The teacher version is in https://csawesome.runestone.academy/runestone/books/published/teach-mobilecsp
 
-2. Assessment software – In an effort to reduce paper waste and the logistical nightmares that come with printing out reams of tests, assessment software has become a focus for school districts. Assessment software is simple, as it is only designed to deliver tests or quizzes, record answers and score the result. Assessment software is also in widespread use among teachers, as it is a low effort way to track student grades over the course of a school year.
+mobile-CSP uses MIT's App Inventor.  This is an app totally run on the web.  We use this for our coding exercises.
+2. Assessment software
 
-Because assessment software is simple in principle, there are many open-source and free options available to educators, so this isn’t an area where heavy investment is usually needed.
+Our district provides us with IlluminteEd.
+I sometimes use Kahoot just to have some fun.
 
-3. Reference software – Reference software has gone completely online, and there are few examples of school districts still using proprietary pieces of software for reference purposes. This marks an extremely rapid change, as school computers were loaded up with dictionary and encyclopedia software as recent as the early 2000s. That’s no longer the case, as sites like Wikipedia have made such software obsolete. And in addition to general research sites like Wikipedia, Google Scholar and Lexis, most medical and science journals now publish online. The web offers a far greater compendium of knowledge than any one piece of reference software could match.
+3. Reference software
 
-4. Classroom aids – The market for classroom aid technology and software has exploded in recent years, and represents one of the most promising approaches to the classroom of the future.
+There are many sites with free APCS-P software which we can use as reference:
+
+code.org
+projectSTEM
+
+Classroom aids – The market for classroom aid technology and software has exploded in recent years, and represents one of the most promising approaches to the classroom of the future.
 
 Classroom aids include impressive audio and visual technology, blending the best of A/V and courseware to create a much more engaging sum. Classroom aids started with well-worn and increasingly archaic technology like the overhead projector, and soon developed into improved digital displays and eventually interactive projectors and whiteboards.
 
