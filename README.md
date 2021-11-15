@@ -82,15 +82,26 @@ wherever necessary.}
 
 {Also describe if/how they are network connected (i.e. ethernet vs wifi, along with any known limitations like blocked WWW access). Describe any other relevant technology as well, such as projectors, smart boards, etc.}
 
-While I understand that chromebooks are probably good enough for the purpose of running this course, I would like to recommend PC laptops.
+While I understand that chromebooks are probably good enough for the purpose of running this course, I would like to recommend PC laptops.  I am hoping that my students will be doing more challenging projects that require the power of a "real" PC.  The minimum requirements will be:
+- Intel i7 processor
+- 16 GB RAM 
+- 64-bit operating system
+- Windows 10 
+- **no** touch type
 
-*Why PC?*
+Android device (phone or tablet) with minimum requirements:
+- 4 GB RAM
+- 8 GB storge
+- Android operating system
+- GPS
+- Accelerometer
+- Camera
 
-
-Android device
-
-7" 8 GB Android 4.4, GPS, Accelerometer, Rear Camera
+Why **Android**?  We use mobilecsp, which uses App Inventor to write apps.  MIT's team has tried to work with Apple to make App Inventor works for 
 Interactive whiteboards are the current standard in classroom aid technology, and have enjoyed enormously high adoption rates in Europe. The U.S. is quickly catching up, though, and the trend is only accelerating. There are a few interactive whiteboard models on the market, but only the SMARTBoard and Clevertouch are ideal for educational purposes.
+
+We are using MIT App Inventor to write apps.
+
 
 ###  Network Specifications
 
