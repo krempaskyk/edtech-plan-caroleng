@@ -9,7 +9,7 @@ Provide a brief description of the purpose of your educational technology Plan
 
 Grade: 9 - 12
 
-AP Computer Science Principles is an introductory college-level computing course that introduces students to the breadth of the field of computer science. Students learn to design and evaluate solutions and to apply computer science to solve problems through the development of algorithms and programs. They incorporate abstraction into programs and use data to discover new knowledge. Students also explain how computing innovations and computing systems—including the internet—work, explore their potential impacts, and contribute to a computing culture that is collaborative and ethical.
+"AP Computer Science Principles is an introductory college-level computing course that introduces students to the breadth of the field of computer science. Students learn to design and evaluate solutions and to apply computer science to solve problems through the development of algorithms and programs. They incorporate abstraction into programs and use data to discover new knowledge. Students also explain how computing innovations and computing systems—including the internet—work, explore their potential impacts, and contribute to a computing culture that is collaborative and ethical." -- CollegeBoard
 
 ### Situation
 
