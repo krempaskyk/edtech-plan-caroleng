@@ -36,13 +36,13 @@ installed as well as any online services.}
 
 1. Courseware
 
-We use mobile-CSP, and the courseware is supplied in Runestone.
+   We use mobile-CSP, and the courseware is supplied in Runestone.
 
-The student version is in https://runestone.academy/runestone/books/published/mobilecsp.
+   The student version is in https://runestone.academy/runestone/books/published/mobilecsp.
 
-The teacher version is in https://csawesome.runestone.academy/runestone/books/published/teach-mobilecsp
+   The teacher version is in https://csawesome.runestone.academy/runestone/books/published/teach-mobilecsp
 
-mobile-CSP uses MIT's App Inventor.  This is an app totally run on the web.  We use this for our coding exercises.
+   mobile-CSP uses MIT's App Inventor.  This is an app totally run on the web.  We use this for our coding exercises.
 
 2. Assessment software
 
