@@ -1,7 +1,7 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-f059dc9a6f8d3a56e377f745f24479a46679e63a5d9fe6f495e02850cd0d8118.svg)](https://classroom.github.com/online_ide?assignment_repo_id=6319754&assignment_repo_type=AssignmentRepo)
 # Educational Technology Plan
 
-Provide a brief description of the purpose of your educational technology Plan
+{Provide a brief description of the purpose of your educational technology Plan}
 
 This Educational Technology Plan is prepared to ensure that Santa Teresa High School will know what the minimum technical requirements are for the APCS-Principles class.
 
@@ -9,7 +9,7 @@ This Educational Technology Plan is prepared to ensure that Santa Teresa High Sc
 
 ### Course  APCS-Principles
 
-[Describe your course including the name, description, and grade level]
+{Describe your course including the name, description, and grade level}
 
 Grade: 9 - 12
 
@@ -29,9 +29,9 @@ CS has become popular in our school, and at the moment, we have eight CS classes
 
 ### Software Specifications
 
-[Describe the software that you will use. Include software used for students as
+{Describe the software that you will use. Include software used for students as
 well as any software the instructor will use. This should include any software
-installed as well as any online services.]
+installed as well as any online services.}
 
 1. Courseware
 
