@@ -48,7 +48,7 @@ installed as well as any online services.}
 
    The teacher version is in https://csawesome.runestone.academy/runestone/books/published/teach-mobilecsp
 
-   mobile-CSP uses MIT's App Inventor.  This is an app totally run on the web.  We use this for our coding exercises.
+   mobile-CSP uses MIT's App Inventor (IDE).  This is an app totally run on the web.  We use this for our coding exercises.
 
 2. Assessment software
 
@@ -60,20 +60,16 @@ installed as well as any online services.}
 
     There are many sites with free APCS-P software which we can use as reference:
 
-    code.org
-    projectSTEM.org
+    - code.org
+    - projectSTEM.org
 
 4.  Classroom aids 
 
-    Google Classroom
-
-
-
-The Clevertouch is a fine example of what interactive whiteboards can do in the classroom. Each one comes with an intuitive interface (called LUX) that is modeled after the interface found on Android devices. Students, therefore, are quick studies when it comes to the Clevertouch. With the Clevertouch, teachers can build lessons using graphic and media assets, reducing lesson creation time greatly. Teachers can also model math and physics principles using Clevermaths and turn the Clevertouch into a multi-zone lesson delivery device with Snowflake. This, along with the Clevertouch’s extensive device connectivity capabilities, allows for true multi-user collaboration between students.
-
-And classroom aid technology comes with proprietary software designed to improve the technology’s function. Again, the Clevertouch is a strong example of how this merge of hardware and software can pay massive dividends for educators. Through the Clevertouch, educators can access the Cleverstore, which isn’t so much a store as it is a massive bank of educational applications. All in-app purchases have been removed and all content unlocked, so the Clevertouch can be augmented in a major way with smart use of the Cleverstore.
-
-
+    - Google Classroom
+    - Jamboard (electronic whiteboard)
+    - SchoolLoop (grading system)
+    - Google G suite
+    - Microsoft Office
 
 ### Hardware Specifications
 
@@ -89,7 +85,7 @@ wherever necessary.}
     - 16 GB RAM 
     - 64-bit operating system
     - Windows 10 
-    - **no** touch type
+    - **no** touch type (less finger prints on the screen)
 
     Android device (phone or tablet) with minimum requirements:
     - 4 GB RAM
@@ -127,6 +123,19 @@ in terms of efficiency, effectiveness, evidence-based and inclusive pedagogy.}
 
 {After listing the technical details of the plan, you will explain how you will use the technology in the Application subsection. For example, in a programming course, you will explain that students will use their IDE (which should be listed in the software) to code and run their programs but you will also describe how they will turn in the assignments and how you will grade them and give students feedback. This is also where you will describe any of the evidence-based practices you plan to adopt and how technology will support them (e.g. describing how you will apply the coherence principle to designing PowerPoint presentation slides that will be projected for lessons, and how students will share their computers to practice pair programming), as discussed in the modules on eLearning Principles and Computing Practices & Pedagogy.}
 
+1.  Learning in class
+
+    Teacher will teach using App Inventor, PowerPoints, Videos, or Jamboard eleWhiteboard via the overhead projector.
+    
+2.  Doing Class Work
+    Students will use App Inventor to write their apps, and will use Google Doc or Microsoft Word to do their reflections or App write-up.
+ 
+3.  Collaboration
+6.  Turning in Homework
+7.  Assessments -- Tests, Final Exams
+8.  Assessments -- Performance Tasks
+9.  Checking Grades
+10. 
 ### Impacts
 
 {How will the technology help *all* students learn? In this section, you can also
