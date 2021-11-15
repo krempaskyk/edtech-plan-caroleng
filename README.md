@@ -22,17 +22,23 @@ Grade: 9 - 12
 decisions in the plan. What assets and constraints do you face? What is the
 context of your class, considering demographic and technical resources?}
 
+{In addition to describing the course, provide pertinant details about the situation in which you will be teaching it. If you know information like class size, student demographics, classroom/school technologies available, etc., summarize it here. If you are not yet a teacher or want to keep the plan broad to potentially adopt in different situations, provide a summary of the assumptions you are making, such as approximate class size, grade levels, and technology available.}
+
 Santa Teresa High School is one of eleven high schools in the Eastside Union High School District.  In 2013, we started teaching Exploring CS.  In 2015, we added APCS-A (Java).  We did not participate in APCS-P in 2017 when it first came out, and we started teaching APCS-P in 2018.
 
 CS has become popular in our school, and at the moment, we have eight CS classes.  We currently has only one computer lab, and the other three classes are taught in the library's computer lab, which is not a proper classroom.  With its growth rate, within the next two years, we will have ten CS classes.  This calls for having two computer labs.  This means more hardware (computers, Android devices), software licenses, and more demand from the network for efficient Internet speed.
 
 ## Plan
 
+{In the plan, you will specify what technologies both you and your students will use.}
+
 ### Software Specifications
 
 {Describe the software that you will use. Include software used for students as
 well as any software the instructor will use. This should include any software
 installed as well as any online services.}
+
+{Within the Software subsection, describe all software you (and your students) will use including operating system(s), learning management systems, required installed software, as well as any online/web services. For example, for this class, I would list a variety of operating systems (including Windows, Mac OS, and Linux), Blackboard LMS, GitHub.com, and the video recording/editing software I use (OBS and iMovie).}
 
 1. Courseware
 
@@ -46,19 +52,20 @@ installed as well as any online services.}
 
 2. Assessment software
 
-Our district provides us with IlluminteEd.
-I sometimes use Kahoot just to have some fun.
+   Our district provides us with IlluminteEd.
+
+   I sometimes use Kahoot just to have some fun.
 
 3. Reference software
 
-There are many sites with free APCS-P software which we can use as reference:
+    There are many sites with free APCS-P software which we can use as reference:
 
-code.org
-projectSTEM
+    code.org
+    projectSTEM.org
 
 4.  Classroom aids 
 
-Google Classroom
+    Google Classroom
 
 
 
@@ -73,9 +80,11 @@ And classroom aid technology comes with proprietary software designed to improve
 {Describe the hardware requirements for your class. Provide specific requirements
 wherever necessary.}
 
+{Also describe if/how they are network connected (i.e. ethernet vs wifi, along with any known limitations like blocked WWW access). Describe any other relevant technology as well, such as projectors, smart boards, etc.}
+
 While I understand that chromebooks are probably good enough for the purpose of running this course, I would like to recommend PC laptops.
 
-Why PC?
+*Why PC?*
 
 
 Android device
@@ -91,13 +100,19 @@ The computers need gigabit ethernet connectivity and the Android devices need wi
 
 ### Application
 
-Describe how you will use the above technologies in the class, including
+{Describe how you will use the above technologies in the class, including
 in-class activities, homework, assignments, and assessment. Justify the use
-in terms of efficiency, effectiveness, evidence-based and inclusive pedagogy.
+in terms of efficiency, effectiveness, evidence-based and inclusive pedagogy.}
+
+{After listing the technical details of the plan, you will explain how you will use the technology in the Application subsection. For example, in a programming course, you will explain that students will use their IDE (which should be listed in the software) to code and run their programs but you will also describe how they will turn in the assignments and how you will grade them and give students feedback. This is also where you will describe any of the evidence-based practices you plan to adopt and how technology will support them (e.g. describing how you will apply the coherence principle to designing PowerPoint presentation slides that will be projected for lessons, and how students will share their computers to practice pair programming), as discussed in the modules on eLearning Principles and Computing Practices & Pedagogy.}
 
 ### Impacts
 
-How will the technology help *all* students learn? In this section, you can also
+{How will the technology help *all* students learn? In this section, you can also
 describe how you address class resiliency, such as adapting to
 transitions to virtual education, social/legal/ethical challenges,  and/or
-evolving course contexts.
+evolving course contexts.}
+
+{Finally, in the final version, you will discuss the Impacts of your plan. Here, you can justify your choices in how you expect it to help students' learning. Explain how you have catered your plan to your course and context. This is also where you can describe any contigency plans you have, such as if you have to transition to  from in-person to virtually teaching.}
+
+
