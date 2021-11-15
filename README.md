@@ -111,7 +111,13 @@ wherever necessary.}
 
 {Describe network and communication devices/infrastructure involved in your plan.}
 
-The computers need gigabit ethernet connectivity and the Android devices need wireless connectivity.
+The computers need gigabit ethernet connectivity and wireless connectivity.
+
+The Android devices need wireless connectivity.  The phone should be unlocked because we do not need the phone to connect to the phone network.
+
+It is a requirement that the computer and the Android device must run on the same wifi network.  So it is important that the school allows students to log on to the wifi network.
+
+Why bother with **ethernet**?  Well, we seem to have bad Internet connection.  When that happens, students can still be connected via ethernet and get other work done.
 
 ### Application
 
