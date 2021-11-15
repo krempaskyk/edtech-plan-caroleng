@@ -43,6 +43,7 @@ The student version is in https://runestone.academy/runestone/books/published/mo
 The teacher version is in https://csawesome.runestone.academy/runestone/books/published/teach-mobilecsp
 
 mobile-CSP uses MIT's App Inventor.  This is an app totally run on the web.  We use this for our coding exercises.
+
 2. Assessment software
 
 Our district provides us with IlluminteEd.
@@ -55,30 +56,32 @@ There are many sites with free APCS-P software which we can use as reference:
 code.org
 projectSTEM
 
-Classroom aids – The market for classroom aid technology and software has exploded in recent years, and represents one of the most promising approaches to the classroom of the future.
+4.  Classroom aids 
 
-Classroom aids include impressive audio and visual technology, blending the best of A/V and courseware to create a much more engaging sum. Classroom aids started with well-worn and increasingly archaic technology like the overhead projector, and soon developed into improved digital displays and eventually interactive projectors and whiteboards.
+Google Classroom
 
-Interactive whiteboards are the current standard in classroom aid technology, and have enjoyed enormously high adoption rates in Europe. The U.S. is quickly catching up, though, and the trend is only accelerating. There are a few interactive whiteboard models on the market, but only the SMARTBoard and Clevertouch are ideal for educational purposes.
+
 
 The Clevertouch is a fine example of what interactive whiteboards can do in the classroom. Each one comes with an intuitive interface (called LUX) that is modeled after the interface found on Android devices. Students, therefore, are quick studies when it comes to the Clevertouch. With the Clevertouch, teachers can build lessons using graphic and media assets, reducing lesson creation time greatly. Teachers can also model math and physics principles using Clevermaths and turn the Clevertouch into a multi-zone lesson delivery device with Snowflake. This, along with the Clevertouch’s extensive device connectivity capabilities, allows for true multi-user collaboration between students.
 
 And classroom aid technology comes with proprietary software designed to improve the technology’s function. Again, the Clevertouch is a strong example of how this merge of hardware and software can pay massive dividends for educators. Through the Clevertouch, educators can access the Cleverstore, which isn’t so much a store as it is a massive bank of educational applications. All in-app purchases have been removed and all content unlocked, so the Clevertouch can be augmented in a major way with smart use of the Cleverstore.
 
-Kahoot
 
-IlluminateEd
-
-Internet
-
-MIT App Invnetor II
 
 ### Hardware Specifications
 
-Describe the hardware requirements for your class. Provide specific requirements
-wherever necessary.
+{Describe the hardware requirements for your class. Provide specific requirements
+wherever necessary.}
 
 Android device
+
+Interactive whiteboards are the current standard in classroom aid technology, and have enjoyed enormously high adoption rates in Europe. The U.S. is quickly catching up, though, and the trend is only accelerating. There are a few interactive whiteboard models on the market, but only the SMARTBoard and Clevertouch are ideal for educational purposes.
+
+###  Network Specifications
+
+{Describe network and communication devices/infrastructure involved in your plan.}
+
+The computers need gigabit ethernet connectivity and the Android devices need wireless connectivity.
 
 ### Application
 
