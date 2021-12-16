@@ -132,42 +132,65 @@ in terms of efficiency, effectiveness, evidence-based and inclusive pedagogy.}
 
 1.  Learning in class
 
-    Teacher will teach using App Inventor, PowerPoints, Videos, or Jamboard eleWhiteboard via the overhead projector.
+    Teacher will teach using App Inventor, PowerPoints, Videos, and/or Jamboard (electronic Whiteboard) via the overhead projector.
+    
+    I use App Inventor because APCS-P emphasizes on algorithm and abstraction.  App Inventor is block-based and it is a perfect tool when we want to teach students algorithm without them having to struggle with the syntax of a language or to solve the compile errors because of a misspelling or a missing semicolon.  Most of the time, in App Inventor, if you can click the pieces together, then you are OK with the syntax.  This means the only thing students need to worry about is the logic errors, which is exactly what I want to teach in APCS-P.
+    
+    I use PowerPoint to teach in general.  My slide deck usually contains the concepts I want to teach, the hook to the concept, the spec of the collaborative activity, the spec of the program that students have to do, and some multiple choice and short questions to check for understanding throughout the lesson.
+    
+    I use videos to supplement my notes so the concepts can be presented in different ways, usually more interesting.  This reinforces the concepts and students will understand and remember them better.
+    
+    I use Jamboard to allow students to collaborate.  Sometimes I use one jamboard for the class, and sometimes students have a jamboard for their group.  This makes collaboration a lot easier.  Some students may prefer Google Doc, but Jamboard is more like having sticky notes on the whiteboard.  You can move them around, and group ideas together, which is easier to do than using Google Doc.
     
 2.  Doing Class Work
     
     Students will use App Inventor to write their apps, and will use Google Doc or Microsoft Word to do their reflections or App write-up.
+    
+    Even though it is a CS class, students have to write in English as well as writing code.  Being able to write is very important in terms of communication.  Students get assignments for app write-up (students have to explain why and how the code works) and reflection for what they learn in class (e.g. Why do we need to use encrption when transmitting data?  What if we don't use encrption?...)  Students can use anything to do their write-up.  Most write-up is to be done by the student only, so they don't have to use Google G suite if they choose not to.
  
 3.  Collaboration and Communication
 
     Students will use Google G suite to collaborate -- they can share Google Doc or Slides.
     
-    Students will communicate with teachers using email.
+    Students will communicate with teachers by asking questions in class or after school.  If they are at home, they can use email.  Ocasionally when required (e.g. a student has been sick for a while), we can Zoom.
     
 4.  Turning in Homework
     
-    Students can turn in their homework in Google Classroom.  Teacher will grade assignments from Google Classroom, and then export grades to School Loop.
+    Students can turn in their homework in Google Classroom.  Teacher will grade assignments from Google Classroom, and then export grades to School Loop because School Loop is our school's official grade reporting system.
     
 5.  Assessments 
 
-    For quizzes, tests, and final exam, we will use IlluminateEd to create the assessments, and then students can go there to do the assessments, and multiple choice questions will be automatically graded.  IlluminateEd is not the best software for entering test questions, it is very tedious; but this is the only testing software that we have.
+    For quizzes, tests, and final exam, we will use IlluminateEd to create the assessments, and then students can go there to do the assessments.  Multiple choice questions will be automatically graded.  IlluminateEd is not the best software for entering test questions, it is very tedious; but this is the only test generator software that we have.
     
     Sometimes I use Kahoot to give students quick tests.  The competition creates some fun.
     
 6.  Assessments -- Performance Tasks
 
-    Performance Tasks will have to be done using App Inventor to create the program, and then Google Doc or Microsoft Word to answer the prompts from College Board.
+    Performance Tasks will have to be done using App Inventor to create the program, and then Google Doc or Microsoft Word to answer the prompts from College Board.  This is required as 30% of the AP exam.  The student-created Performance Task has to be submitted to CollegeBoard by the end of April, and the 2-hour 74-question exam is in May.
  
 7.  Checking Grades
 
-    Students can check their grades in SchoolLoop or Naviance (offical posted grades).
+    Students can check their current grades in SchoolLoop any time and their official posted grade in Naviance at the end of each marking period.
     
 8.  Pedagogy
-Using project-based learning to apply programming knowledge to real-world scenarios
-Using Code Tracing to improve program comprehension
-Understanding program comprehension using the block model
-    +
+
+    I use App Inventor, a block based programming language to teach this course so students can concentrate on the logical flow rather than having to worry about the syntax of the programming language.  The programs students write are usually related to the concepts that they are learning -- this is the project-based learning where we apply programming knowledge to real-world scenarios, e.g. when we are learning encrption, we write a program for Caesar Cypher, which is an encrption algorithm.  I also use code tracing to improve program comprehension -- quite often when students ask me for help, I will ask them to trace the program, and most of the time, they figure out what is wrong while tracing the code.
+
 9.  A typical lesson
+
+    a.  A lesson usually starts with my PowerPoint.  It will start with the hook to capture student's attention.
+    
+    b.  I will teach the concept.
+    
+    c.  Sometimes I show a video.
+    
+    d.  Sometimes there is a collaboration activity to do.  Students will use Jamboard here.
+    
+    e.  Sometimes there is programming to do.  Students will use App Inventor here.
+    
+    f.  I will use the PowerPoint to show some multiple choice or short answers to check for understanding.
+    
+    g.  I will post a few prompting questions so students can write their reflection on the lesson.
     
 
 ### Impacts
