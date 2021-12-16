@@ -156,7 +156,7 @@ in terms of efficiency, effectiveness, evidence-based and inclusive pedagogy.}
     
 4.  Turning in Homework
     
-    Students can turn in their homework in Google Classroom.  Teacher will grade assignments from Google Classroom, and then export grades to School Loop because School Loop is our school's official grade reporting system.
+    Students can turn in their homework in Google Classroom.  Teacher will grade assignments from Google Classroom, and then export grades to School Loop because School Loop is our school's official current grade reporting system (as opposed to Naviance, which is the district's official grade reporting system for marking periods).
     
 5.  Assessments 
 
@@ -166,7 +166,7 @@ in terms of efficiency, effectiveness, evidence-based and inclusive pedagogy.}
     
 6.  Assessments -- Performance Tasks
 
-    Performance Tasks will have to be done using App Inventor to create the program, and then Google Doc or Microsoft Word to answer the prompts from College Board.  This is required as 30% of the AP exam.  The student-created Performance Task has to be submitted to CollegeBoard by the end of April, and the 2-hour 74-question exam is in May.
+    Performance Tasks will have to be done using App Inventor to create the program, and then Google Doc or Microsoft Word will be used to answer the prompts from College Board.  This is worth 30% of the AP exam.  The student-created Performance Task has to be submitted to CollegeBoard by the end of April, and the 2-hour 74-question exam is in May.
  
 7.  Checking Grades
 
@@ -174,7 +174,7 @@ in terms of efficiency, effectiveness, evidence-based and inclusive pedagogy.}
     
 8.  Pedagogy
 
-    I use App Inventor, a block based programming language to teach this course so students can concentrate on the logical flow rather than having to worry about the syntax of the programming language.  The programs students write are usually related to the concepts that they are learning -- this is the project-based learning where we apply programming knowledge to real-world scenarios, e.g. when we are learning encrption, we write a program for Caesar Cypher, which is an encrption algorithm.  I also use code tracing to improve program comprehension -- quite often when students ask me for help, I will ask them to trace the program, and most of the time, they figure out what is wrong while tracing the code.
+    I use App Inventor, a block based programming language to teach this course so students can concentrate on the logical flow rather than having to worry about the syntax of the programming language.  The programs students write are usually related to the concepts that they are learning -- this is the project-based approach where we apply programming knowledge to real-world scenarios, e.g. when we are learning encrption, we write a program for Caesar Cypher, which is an encrption algorithm.  I also use code tracing to improve program comprehension -- quite often when students ask me for help, I will ask them to trace the code, and most of the time, they figure out what is wrong while tracing the code.
 
 9.  A typical lesson
 
