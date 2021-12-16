@@ -128,6 +128,8 @@ in terms of efficiency, effectiveness, evidence-based and inclusive pedagogy.}
 
 {After listing the technical details of the plan, you will explain how you will use the technology in the Application subsection. For example, in a programming course, you will explain that students will use their IDE (which should be listed in the software) to code and run their programs but you will also describe how they will turn in the assignments and how you will grade them and give students feedback. This is also where you will describe any of the evidence-based practices you plan to adopt and how technology will support them (e.g. describing how you will apply the coherence principle to designing PowerPoint presentation slides that will be projected for lessons, and how students will share their computers to practice pair programming), as discussed in the modules on eLearning Principles and Computing Practices & Pedagogy.}
 
+{Your plan is off to a good start. In the application section, I'd like to see more detailed discussion of how you are going to use the technology. For example, you referenced using App Inventor, PowerPoints, Videos, or Jamboard but haven't explained what purpose each will serve. Describe how a typical module would be structured, how you'll adopt these technologies, and why. Include any pedagogy or particular practices you plan to adopt.}
+
 1.  Learning in class
 
     Teacher will teach using App Inventor, PowerPoints, Videos, or Jamboard eleWhiteboard via the overhead projector.
@@ -159,6 +161,14 @@ in terms of efficiency, effectiveness, evidence-based and inclusive pedagogy.}
 7.  Checking Grades
 
     Students can check their grades in SchoolLoop or Naviance (offical posted grades).
+    
+8.  Pedagogy
+Using project-based learning to apply programming knowledge to real-world scenarios
+Using Code Tracing to improve program comprehension
+Understanding program comprehension using the block model
+    +
+9.  A typical lesson
+    
 
 ### Impacts
 
